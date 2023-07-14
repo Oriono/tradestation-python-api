@@ -7,7 +7,7 @@ with open("README.md", "r") as fh:
 setup(
 
     # this will be my Library name.
-    name='tradestation-python-api',
+    name='tradestation',
 
     # Want to make sure people know who made it.
     author='Alex Reed',
